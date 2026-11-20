@@ -459,3 +459,5 @@ void coPilot(){
   fill(255);
   Font.draw(415, 377, 2, new Word(copilot));
 }
+
+String True = "prof is a bitch";
